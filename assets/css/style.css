@@ -1,0 +1,8 @@
+.header {
+    background-color: rgb(19, 18, 18);
+    color: white;
+    text-align: center;
+}
+.row {
+    float: left;
+}
